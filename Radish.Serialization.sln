@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radish.Serialization.Generator", "Radish.Serialization.Generator\Radish.Serialization.Generator.csproj", "{DA0AB0E5-C402-426B-9BC4-E2AA22A03E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radish.Serialization", "Radish.Serialization\Radish.Serialization.csproj", "{A2383E59-C2DA-4752-99C4-FEFF9C01738E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA0AB0E5-C402-426B-9BC4-E2AA22A03E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA0AB0E5-C402-426B-9BC4-E2AA22A03E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA0AB0E5-C402-426B-9BC4-E2AA22A03E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA0AB0E5-C402-426B-9BC4-E2AA22A03E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2383E59-C2DA-4752-99C4-FEFF9C01738E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2383E59-C2DA-4752-99C4-FEFF9C01738E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2383E59-C2DA-4752-99C4-FEFF9C01738E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2383E59-C2DA-4752-99C4-FEFF9C01738E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
